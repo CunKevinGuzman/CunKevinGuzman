@@ -13,6 +13,6 @@ bachiller academico (JOSE JOAQUIN FLOREZ HERNDEZ)
 
 ## usuario de mis compañeros de grupo
 
-CunRamiroOrdonez
+CunRamiroOrdonez  https://github.com/Ordo05
 CunMarlonMoreno   https://github.com/CunMarlonMoreno
 
